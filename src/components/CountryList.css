@@ -1,0 +1,27 @@
+/* CountryList.css */
+.country-container {
+  margin-bottom: 10px;
+}
+
+.country-button {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.country-flag {
+  width: 50px;
+  height: auto;
+  margin-left: 10px;
+}
+
+.country-name {
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 20px;
+}
